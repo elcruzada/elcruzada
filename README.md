@@ -1,4 +1,4 @@
-### Hi there 👋. I'm a full-stack software engineer. Let us connect!
+### Hi there 👋. I'm a full-stack software engineer. Let's connect!
 
 The allure of software engineering lies in the power to create. It serves as an outlet for my creative bent and enables me to engage in logical problem-solving. Whether it is crafting frontend features or developing intricate backend routes, there is a distinct joy of building something tangible from lines of code.
 
